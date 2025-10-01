@@ -1,0 +1,2 @@
+# INTRODUCCIÓN
+### En este proyecto vamos a entender porque el sistema de control de versiones es muy útil en nuestro sector para gestionar proyectos complejos ya que permite rastrear y revertir cualquier tipo de cambio que se haga en el proyecto. Git, por ejemplo, un sistema de control de versiones distribuido, asegurando que cada colaborador tenga una copia completa del historial del proyecto, lo que mejora la robustez y la redundancia del proyecto. 
