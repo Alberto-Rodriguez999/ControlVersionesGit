@@ -10,3 +10,4 @@
 #### - Sistemas de control de versiones distribuidos
 ## Git:
 #### Desarrollada por Linus Torvalds, es una herramienta rápida y eficiente para el control de versiones. Permite flujos de trabajo distribuidos en los que no existe un repositorio central.
+![imagengit.png](img/que-es-git.png)
